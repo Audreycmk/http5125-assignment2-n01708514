@@ -1,0 +1,64 @@
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.csproj.AssemblyReference.cache
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.AssemblyInfoInputs.cache
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.AssemblyInfo.cs
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.csproj.CoreCompileInputs.cache
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.MvcApplicationPartsAssemblyInfo.cs
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.MvcApplicationPartsAssemblyInfo.cache
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/appsettings.Development.json
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/appsettings.json
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/J1
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/J1.deps.json
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/J1.runtimeconfig.json
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/J1.dll
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/J1.pdb
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/staticwebassets/msbuild.J1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/staticwebassets/msbuild.build.J1.props
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.J1.props
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.J1.props
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/scopedcss/bundle/J1.styles.css
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.csproj.Up2Date
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.dll
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/refint/J1.dll
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.pdb
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/J1.genruntimeconfig.cache
+/Users/Audrey/Desktop/Desktop/FRI/HTTP 5125    Back-End C#/Assignment/Assignment 2/J1/obj/Debug/net8.0/ref/J1.dll
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/appsettings.Development.json
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/appsettings.json
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/J1
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/J1.deps.json
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/J1.runtimeconfig.json
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/J1.dll
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/J1.pdb
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Audrey/Desktop/Desktop/Assignment 2/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.csproj.AssemblyReference.cache
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.AssemblyInfoInputs.cache
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.AssemblyInfo.cs
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.csproj.CoreCompileInputs.cache
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.MvcApplicationPartsAssemblyInfo.cs
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.MvcApplicationPartsAssemblyInfo.cache
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/staticwebassets/msbuild.J1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/staticwebassets/msbuild.build.J1.props
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.J1.props
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.J1.props
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/scopedcss/bundle/J1.styles.css
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.csproj.Up2Date
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.dll
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/refint/J1.dll
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.pdb
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/J1.genruntimeconfig.cache
+/Users/Audrey/Desktop/Desktop/Assignment 2/obj/Debug/net8.0/ref/J1.dll
