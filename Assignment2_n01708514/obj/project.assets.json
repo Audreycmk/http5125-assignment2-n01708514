@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Audrey/Desktop/Desktop/Assignment 2/J1.csproj",
+      "projectUniqueName": "/Users/Audrey/Desktop/Desktop/http5125-assignment2-n01708514/Assignment2_n01708514/J1.csproj",
       "projectName": "J1",
-      "projectPath": "/Users/Audrey/Desktop/Desktop/Assignment 2/J1.csproj",
+      "projectPath": "/Users/Audrey/Desktop/Desktop/http5125-assignment2-n01708514/Assignment2_n01708514/J1.csproj",
       "packagesPath": "/Users/Audrey/Desktop/.nuget/packages/",
-      "outputPath": "/Users/Audrey/Desktop/Desktop/Assignment 2/obj/",
+      "outputPath": "/Users/Audrey/Desktop/Desktop/http5125-assignment2-n01708514/Assignment2_n01708514/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Audrey/Desktop/.nuget/NuGet/NuGet.Config"

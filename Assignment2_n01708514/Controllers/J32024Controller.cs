@@ -11,16 +11,20 @@ namespace Assignment2.Controllers
     public class J32024Controller : ControllerBase
     {
         /// <summary>
-        /// http://localhost:5159/api/J32024/BronzeCount?N=4&scores=70&scores=62&scores=58&scores=73
+        /// Determines the score required for bronze level and how many participants achieved this score.
         /// </summary>
-        /// <param name="N"></param>
-        /// <param name="scores"></param>
-        /// <returns></returns> <summary>
+        /// <param name="N">The number of participants.</param>
+        /// <param name="scores">A list of participant scores.</param>
+        /// <returns>
+        /// A string containing the bronze score and the number of participants who achieved it.
+        /// </returns>
+        /// <example>
+        /// GET: localhost:5159/api/J32024/BronzeCount?N=4&scores=70&scores=62&scores=58&scores=73 -> 62 1
+        /// </example>
+        /// <example>
+        /// GET: localhost:5159/api/J32024/BronzeCount?N=8&scores=75&scores=70&scores=60&scores=70&scores=70&scores=60&scores=75&scores=70 -> 60 2
+        /// </example>
         /// 
-        /// </summary>
-        /// <param name="N"></param>
-        /// <param name="scores"></param>
-        /// <returns></returns>
         [HttpGet(template:"BronzeCount")]
         public string BronzeCount (int N, [FromQuery] List<int> scores)
         {

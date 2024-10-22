@@ -10,16 +10,22 @@ namespace Assignment2.Controllers
     [Route("api/[controller]")]
     public class J1Controller : ControllerBase
     {
-         /// <summary>
-        /// Receives an HTTP GET request with one query parameter and provides a new date by adding a specified number of days to January 1, 2000.
+        /// <summary>
+        /// Calculates the score based on the number of collisions and deliveries.
         /// </summary>
-        /// curl -X 'POST' \
-  curl 'http://localhost:5159/api/J1/Delivedroid' -H 'Content-Type: application/x-www-form-urlencoded' -d 'Collisions=2&Deliveries=5'   /// 
-        /// <returns>A string representing the new date in "yyyy-MM-dd" format.</returns>
+        /// <param name="Collisions">The number of collisions.</param>
+        /// <param name="Deliveries">The number of deliveries.</param>
+        /// <returns>The final score at the end of a game, which each collision deducts +10 points, each delivery +50 points, and deliveries > collisions +500.</returns>
         /// <example>
-        /// GET api/q7/timemachine?days=1 -> 2000-01-02
-        /// GET api/q7/timemachine?days=-1 -> 1999-12-31
+        /// POST: localhost:xx/api/J1/Delivedroid
+        /// Content-Type: application/x-www-form-urlencoded
+        /// Request Body: Collisions=2&Deliveries=5 -> 730
         /// </example>
+        /// <example>
+        /// POST: localhost:xx/api/J1/Delivedroid
+        /// Content-Type: application/x-www-form-urlencoded
+        /// Request Body: Collisions=10&Deliveries=0 -> -100
+        /// </example>/// 
         
     [HttpPost (template: "Delivedroid")]
     [Consumes ("application/x-www-form-urlencoded")]

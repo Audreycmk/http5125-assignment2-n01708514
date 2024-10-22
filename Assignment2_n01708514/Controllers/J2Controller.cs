@@ -11,44 +11,35 @@ namespace Assignment2.Controllers
     public class J2Controller : ControllerBase
     {
         /// <summary>
-        /// 
+        /// Calculates the total spiciness of the chili based on the peppers added.
         /// </summary>
-        /// <param name="N"></param>
-        /// <param name="pepperNames"></param>
-        /// <returns></returns> <summary>
-        /// curl -X 'GET' \
-//   'http://localhost:5159/api/J2/ChiliPeppers?N=4&pepperNames=Poblano&        pepperNames=Cayenne&pepperNames=Thai&pepperNames=Poblano' \
-//   -H 'accept: text/plain'
-        /// </summary>
-        /// <param name="N"></param>
-        /// <param name="pepperNames"></param>
-        /// <returns></returns>
-        [HttpGet("ChiliPeppers")]
-        public int ChiliPeppers([FromQuery] int N, [FromQuery] List<string> pepperNames)
+        /// <param name="Ingredients">A comma-separated list of pepper names.</param>
+        /// <returns>
+        /// The total spiciness of the chili in Scoville Heat Units (SHU).
+        /// </returns>
+        /// <example>
+        /// GET: localhost:xx/api/J2/ChiliPeppers&Ingredients=Poblano,Cayenne,Thai,Poblano -> 118000
+        /// </example>
+        /// <example>
+        /// GET: localhost:xx/api/J2/ChiliPeppers&Ingredients=Habanero,Habanero,Habanero,Habanero,Habanero -> 625000
+        /// </example>
+        
+        [HttpGet(template:"ChiliPeppers")]
+        public int GetChiliSpiciness([FromQuery] string Ingredients)
         {
-    
-            List<(string Name, int SHU)> Peppers = new List<(string, int)>
-            {
-                ("Poblano", 1500),
-                ("Mirasol", 6000),
-                ("Serrano", 15500),
-                ("Cayenne", 40000),
-                ("Thai", 75000),
-                ("Habanero", 125000)
-            };
+            Dictionary<string, int> PepperSHU = new Dictionary<string, int>
+        {
+            { "Poblano", 1500 },
+            { "Mirasol", 6000 },
+            { "Serrano", 15500 },
+            { "Cayenne", 40000 },
+            { "Thai", 75000 },
+            { "Habanero", 125000 }
+        };
 
-            int T = 0; 
-            for (int i = 0; i < N; i++)
-            {
-                string pepperName = pepperNames[i];
-                var pepper = Peppers.Find(p => p.Name.Equals(pepperName, StringComparison.OrdinalIgnoreCase));
-                
-                if (pepper != default)
-                    {
-                        T += pepper.SHU;
-                    }
-            }
-            return T;
+            var peppers = Ingredients.Split(',');
+            int totalSHU = peppers.Sum(pepper => PepperSHU.ContainsKey(pepper) ? PepperSHU[pepper] : 0);
+            return totalSHU;
         }
     }
 }
